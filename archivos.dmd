@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="archivos" id="8A32C20B-08A7-D9E7-CB95-4C4CD6E38D8E" version="3.5">
+<createdBy>jorch</createdBy>
+<createdTime>2021-01-07 03:32:04 UTC</createdTime>
+<ownerDesignName>archivos</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>8A32C20B-08A7-D9E7-CB95-4C4CD6E38D8E</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="5F21AAFC-9717-AB76-300F-3C4A28B8056D">
+<designStoragePath>C:\</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
